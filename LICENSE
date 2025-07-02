@@ -1,0 +1,49 @@
+TERMS AND CONDITIONS
+
+0. Definitions.
+“This License” refers to this custom LICENSE file with terms and conditions written in it.
+
+"Studio Wildcard" refers to WILDCARD PROPERTIES, LLC.
+
+"ASE" refers to Ark: Survival Evolved made by Studio Wildcard.
+
+"ASA" refers to Ark: Survival Ascended made by Studio Wildcard with a updated version of the Unreal Engine.
+
+"ASE DevKit" refers to the tools provided by Studio Wildcard to create mods for ASE.
+
+"ASE Mod" in this context refers to a piece of software that was made using the DevKit for the purpose of modifying and/or extending the functionality of ASE.
+
+"ASE Modder" refers to a person or a group of people that are creating Mods for ASE.
+
+“ASE Ark-Nucleus refers to the published mod for ASE on Steam Workshop.
+
+“ASE Ark-Nucleus Source Code” refers to all the files in this repository that make up Ark-Nucleus version published for ASE (not ASA).
+
+"Author" refers to the person that created and published Ark-Nucleus.
+
+"Publish" refers to uploading a cooked version of the source files to platforms like Steam Workshop.
+
+
+1. Basic Permissions
+- Modified or unmodified copies of files that come as part of the ASE DevKit are managed by the terms and conditions attached to the use of the ASE DevKit and have priority over the terms and conditions of this license
+
+- The Author grants the permission to other Modders to make a fork of ASE Ark-Nucleus Source Code for the purpose of creating and publishing modified versions of ASE Ark-Nucleus (under a different name).
+
+2. Limitations
+- You may NOT publish unmodified versions.
+
+- You are NOT permitted to port any of the work (as is or modified) to ASA.
+
+- Any Published work based of ASE Ark-Nucleus MUST clearly state so in the Mods Description on the Published Platform.
+
+- You are NOT to use any of ASE Ark-Nucleus or the modified versions of it for Commercial use.
+
+- You MUST rename the mod folder and any other "Ark-Nucleus" references from the source files before publishing it under a different name.
+
+- You are NOT permitted to use the "Ark-Nucleus" name or art in your modified versions beside the part of the mod description that stats that your Mods is based of Ark-Nucleus Source Files.
+
+3. Disclaimer of Warranty.
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+4. Limitation of Liability.
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
